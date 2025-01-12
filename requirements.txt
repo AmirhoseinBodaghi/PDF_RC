@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+PyMuPDF
+pytesseract
+joblib
+pandas
+scikit-image
+Pillow
+pywavelets
