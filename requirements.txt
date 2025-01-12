@@ -8,3 +8,5 @@ pandas
 scikit-image
 Pillow
 pywavelets
+scikit-learn  # Required for RandomForestClassifier and SelectKBest
+imbalanced-learn  # Required for SMOTE
